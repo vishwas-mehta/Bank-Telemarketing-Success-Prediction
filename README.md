@@ -67,5 +67,4 @@ git clone https://github.com/your-username/Bank-Telemarketing-Success-Prediction
 
 The project evaluates multiple machine learning models to predict customer subscription success.  
 
-
 ---
